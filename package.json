@@ -1,7 +1,7 @@
 {
-	"name": "nico",
+	"name": "copilot",
 	"version": "1.0.1",
-	"description": "feryqutious skid fucking camellia on laur's grave where aran had a small talk with ak+q, then notice they are toaster and fucked toaster because toaster is bad",
+	"description": "?",
 	"main": "dist/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
